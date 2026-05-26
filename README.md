@@ -1,68 +1,81 @@
-# 👨‍💻 Jonathan Ouédraogo
+# 👨‍💻 Jonathan OUEDRAOGO
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Fullstack+Learner;Future+Pentester" />
 
 Cybersecurity & Software Engineering Student | Python • C • Web Development • Linux
 
-💡 Passionate about building real-world systems and preparing for a career in cybersecurity and software engineering.
+💡 Building real-world systems and preparing for a career in cybersecurity and software engineering.
 
 ---
 
 ## 🚀 About Me
-- 🔐 Cybersecurity learner (pentesting basics)
-- 🐍 Python developer
+
+- 🔐 Cybersecurity learner (pentesting fundamentals)
+- 🐍 Python & backend development
 - 🌐 Frontend development (HTML, CSS, React)
-- ⚙️ Interested in systems, networking and security fundamentals
-- 🎯 Goal: secure an internship in software engineering / cybersecurity
+- ⚙️ Interested in systems, networking & security
+- 🎯 Goal: internship in cybersecurity / software engineering
 
 ---
 
 ## 🛠️ Tech Stack
+
 Python • C • JavaScript • HTML/CSS • React • Linux • Git • Cybersecurity Basics
 
 ---
 
 ## 📌 Featured Projects
 
-- 🎮 Interactive Quiz Game (Python + PyGame)  
-  → Game logic, scoring system, timers, levels, and JSON-based question database
+### 🎮 Interactive Quiz Game (Python + PyGame)
+- Game logic and scoring system  
+- Timers and difficulty levels  
+- JSON-based question management  
 
-- 🏥 Digital Health Management System (Python + Tkinter)  
-  → Patient records, authentication system, medical history management
+### 🏥 Digital Health Management System (Python + Tkinter)
+- Patient record management  
+- Authentication system  
+- Medical history tracking  
 
-- 🌐 Responsive Web Interfaces (HTML / CSS)  
-  → Clean UI design, responsive layouts, and frontend practice projects
+### 🌐 Responsive Web Interfaces (HTML / CSS)
+- Modern UI design  
+- Responsive layouts  
+- Frontend practice projects  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathan-onjd&theme=tokyonight" />
 
-<!-- Most Used Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathan-onjd&theme=tokyonight" />
-
-<!-- Profile Details -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathan-onjd&theme=tokyonight" />
 
-<!-- Tech Icons -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathan-onjd&theme=tokyonight" />
+
+---
+
+## 🧰 Tools & Technologies
+
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,git,github,linux,ubuntu,vscode" />
 
 ---
 
-## 🎯 Goals (2026)
-- 🎓 Obtain a software engineering / cybersecurity internship
-- 🧠 Strengthen backend development skills
-- 🔐 Improve penetration testing & security knowledge
-- 🚀 Build production-level projects
+## 🎯 2026 Goals
+
+- 🎓 Secure a cybersecurity / software engineering internship
+- 🧠 Improve backend & system design skills
+- 🔐 Strengthen penetration testing skills
+- 🚀 Build production-ready projects
 - 🌍 Contribute to open-source projects
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/jonathan-onjd  
-- LinkedIn: (add your link here)
-- Email: (add your email here)
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nongdo-jonathan-ouedraogo-b66557363/
+- 💻 GitHub: https://github.com/jonathan-onjd  
+- 📧 Email: jonathanouedraog777@gmail.com  
+- 🌐 Portfolio: https://earnest-paletas-5bf9d7.netlify.app/
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Always learning. Always building. Always improving.*
