@@ -24,6 +24,20 @@ Python • C • JavaScript • HTML/CSS • React • Linux • Git • Cyberse
 
 ---
 
+## 🔐 Cybersecurity Achievements
+
+🎯 TryHackMe Progress
+
+<p align="center">
+  <img src="https://assets.tryhackme.com/room-badges/8b467677b805ea41d4a72f3493cf53fa.png" width="130"/>
+  <img src="https://assets.tryhackme.com/room-badges/4f4e302439428d32126f229c3398b422.png" width="130"/>
+</p>
+
+📌 Currently learning:
+- Linux fundamentals
+- Web security basics
+- Networking & pentesting intro
+  
 ## 📌 Featured Projects
 
 ### 🎮 Interactive Quiz Game (Python + PyGame)
