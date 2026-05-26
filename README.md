@@ -26,10 +26,10 @@ Python | C | JavaScript | HTML | CSS | React | Linux
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonathan-onjd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathan-onjd&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-onjd&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathan-onjd&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=jonathan-onjd&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathan-onjd&theme=tokyonight" />
 
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,git,github,linux,ubuntu,vscode" />
